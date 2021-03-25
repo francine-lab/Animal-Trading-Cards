@@ -1,6 +1,4 @@
-# HTML and CSS | Animal Trading Cards
-
-## Introduction
+# HTML and CSS - Animal Trading Cards
 
 This project combines HTML and CSS skills.
 
